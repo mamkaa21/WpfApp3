@@ -49,7 +49,7 @@
             </Style>
             <Style  TargetType="TextBox">
                 <Setter Property="FontSize" Value="18" />
-                <Setter Property="FontFamily" Value="Arial" />
+                <Setter Property="FontFamily" Value="Cascadia Code" />
             </Style>
         </ResourceDictionary>
     </Application.Resources>
